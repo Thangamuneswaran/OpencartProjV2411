@@ -1,0 +1,56 @@
+12:09:16.670 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:09:16.677 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: itachi@gmail.com, Password: Sasuke@123, Expected: Valid
+12:09:18.387 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:09:18.396 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:09:18.396 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: lakshm@yahoo.com, Password: Laxmi, Expected: Invalid
+12:09:29.534 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:09:29.550 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:09:29.567 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: naruto@yahoo.com, Password: Laksm, Expected: Invalid
+12:09:41.035 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:09:41.049 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:09:41.050 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: hinata@yahoo.com, Password: xyz, Expected: Invalid
+12:09:52.670 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:09:52.687 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:09:52.687 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: abc123@gmail.com, Password: test@123, Expected: Valid
+12:09:54.808 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:10:38.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+12:10:43.704 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:10:43.705 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: itachi@gmail.com, Password: Sasuke@123, Expected: Valid
+12:10:45.418 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:10:45.426 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:10:45.426 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: lakshm@yahoo.com, Password: Laxmi, Expected: Invalid
+12:10:56.768 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:10:56.779 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:10:56.779 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: naruto@yahoo.com, Password: Laksm, Expected: Invalid
+12:11:08.259 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:11:08.266 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:11:08.267 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: hinata@yahoo.com, Password: xyz, Expected: Invalid
+12:11:19.783 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:11:19.790 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:11:19.790 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: abc123@gmail.com, Password: test@123, Expected: Valid
+12:11:22.179 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:17:44.734 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+12:17:50.063 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:17:50.063 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: itachi@gmail.com, Password: Sasuke@123, Expected: Valid
+12:17:52.015 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:17:52.034 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:17:52.036 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: lakshm@yahoo.com, Password: Laxmi, Expected: Invalid
+12:18:03.517 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:18:03.517 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:18:03.517 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: naruto@yahoo.com, Password: Laksm, Expected: Invalid
+12:19:46.938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+12:19:51.368 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:19:51.368 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: itachi@gmail.com, Password: Sasuke@123, Expected: Valid
+12:19:52.842 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:19:52.855 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:19:52.855 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: lakshm@yahoo.com, Password: Laxmi, Expected: Invalid
+12:20:03.816 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:20:03.832 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:20:03.832 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: naruto@yahoo.com, Password: Laksm, Expected: Invalid
+12:20:15.381 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****

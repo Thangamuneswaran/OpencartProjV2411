@@ -1,0 +1,70 @@
+12:20:15.387 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:20:15.401 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: hinata@yahoo.com, Password: xyz, Expected: Invalid
+12:22:28.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+12:22:33.122 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:22:33.123 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: itachi@gmail.com, Password: Sasuke@123, Expected: Valid
+12:22:34.664 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:22:34.677 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:22:34.677 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: lakshmi@yahoo.com, Password: Laxmi, Expected: Invalid
+12:22:36.304 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:22:36.304 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: naruto@yahoo.com, Password: Laksm, Expected: Invalid
+12:22:47.265 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:22:47.275 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:22:47.275 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: hinata@yahoo.com, Password: xyz, Expected: Invalid
+12:22:58.564 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+12:22:58.569 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003  *****
+12:22:58.569 [main] INFO  testCases.TC003_LoginDDT - Testing with Email: abc123@gmail.com, Password: test@123, Expected: Valid
+12:23:00.557 [main] INFO  testCases.TC003_LoginDDT - ***** Finishing TC003  *****
+18:28:39.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grouping.xml
+
+18:30:42.223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grouping.xml
+
+18:30:46.499 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+18:30:46.656 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+18:30:47.035 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+18:30:48.095 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+18:30:48.146 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+18:30:51.899 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+18:30:53.185 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+13:21:46.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grouping.xml
+
+13:23:33.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grouping.xml
+
+13:23:42.388 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+13:23:42.529 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+13:23:42.914 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:23:44.066 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+13:23:44.119 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+13:23:47.438 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+13:23:48.669 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+18:49:01.296 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+18:52:54.453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+18:56:54.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+19:03:13.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+19:10:17.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+19:10:22.328 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+19:10:22.452 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+19:10:22.799 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:10:23.885 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+19:10:23.937 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+19:10:27.020 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+19:10:28.080 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+17:15:19.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
