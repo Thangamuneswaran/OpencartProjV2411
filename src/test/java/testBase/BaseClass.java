@@ -41,7 +41,6 @@ public Properties p;
 		p.load(file);
 		
 		logger=LogManager.getLogger(this.getClass());
-		//
 		//p.getProperty("execution-env").equalsIgnoreCase("remote"
 		
 		/*if("remote".equalsIgnoreCase(p.getProperty("execution_env", "default")))
