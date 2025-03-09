@@ -1,0 +1,66 @@
+17:19:32.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:30:38.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:32:42.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:38:42.570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:40:57.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:41:04.899 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+17:41:05.163 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+17:41:05.637 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+17:41:07.598 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+17:41:07.684 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+17:41:10.987 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+17:41:12.673 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+18:45:52.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grid-docker.xml
+
+18:48:11.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grid-docker.xml
+
+18:48:15.503 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+18:48:15.670 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+18:48:16.112 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+18:48:17.622 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+18:48:17.699 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+18:48:19.749 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+18:48:21.197 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+13:37:03.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\grid-docker.xml
+
+13:37:10.897 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+13:37:11.080 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+13:37:11.593 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:37:13.007 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+13:37:13.087 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+13:37:14.465 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+13:37:16.102 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+13:45:33.172 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+13:45:33.317 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+13:45:33.836 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:45:35.104 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+13:45:35.154 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+13:45:38.161 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+13:45:39.499 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+17:51:25.445 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+17:51:25.572 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+17:51:25.879 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+17:51:27.073 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
+17:51:27.111 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finishing TC001 ****
+17:51:30.412 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002  *****
+17:51:31.661 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002  *****
+17:31:30.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thang\eclipse-workspace\OpencartProjV2411\testng.xml
+
+17:31:36.185 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 ****
+17:31:36.362 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link ****
+17:31:36.807 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+17:31:38.139 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. ****
