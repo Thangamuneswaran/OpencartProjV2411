@@ -7,7 +7,6 @@ pipeline {
                 git 'https://github.com/Thangamuneswaran/OpencartProjV2411.git'
             }
         }
-
         stage('Build') {
             steps {
                 sh 'mvn clean install'
