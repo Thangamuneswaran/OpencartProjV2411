@@ -12,18 +12,27 @@ pipeline {
                 bat 'mvn clean install'
             }
         }
-
         stage('Test') {
             steps {
                 bat 'mvn test'
             }
         }
-
         stage('Deploy') {
             steps {
                 echo 'Deploying application...'
-                // deployment steps
             }
+        }
+    }
+    post {
+        always {
+            archiveArtifacts artifacts: 'target/extent-report.html', allowEmptyArchive: true
+            publishHTML(target: [
+                reportDir: 'target',
+                reportFiles: 'extent-report.html',
+                reportName: 'Extent Report',
+                keepAll: true,
+                allowMissing: false
+            ])
         }
     }
 }
