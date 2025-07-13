@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    triggers {
+        cron('0 19 * * *') // Runs every day at 7 PM
+    }
+
     stages {
         stage('Checkout Code') {
             steps {
@@ -23,15 +27,18 @@ pipeline {
             }
         }
     }
+
     post {
         always {
-            archiveArtifacts artifacts: 'target/extent-report.html', allowEmptyArchive: true
-            publishHTML(target: [
+            archiveArtifacts artifacts: '**/extent-report.html', allowEmptyArchive: true
+
+            publishHTML([
                 reportDir: 'target',
                 reportFiles: 'extent-report.html',
                 reportName: 'Extent Report',
+                allowMissing: false,
                 keepAll: true,
-                allowMissing: false
+                alwaysLinkToLastBuild: true
             ])
         }
     }
