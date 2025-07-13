@@ -10,7 +10,7 @@ import java.io.File;
 
 public class GetUtility 
 {
-	public static Object[] getExcelData(String filePath, String sheetname) throws IOException 
+	public static Object[][] getExcelData(String filePath, String sheetname) throws IOException 
 	{
 		//Load Excel file
 		FileInputStream file = new FileInputStream(new File(filePath));
