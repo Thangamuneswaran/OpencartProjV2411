@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    triggers {
+        cron('0 19 * * *') // Runs every day at 7 PM
+    }
+
     stages {
         stage('Checkout Code') {
             steps {
@@ -12,18 +16,30 @@ pipeline {
                 bat 'mvn clean install'
             }
         }
-
         stage('Test') {
             steps {
                 bat 'mvn test'
             }
         }
-
         stage('Deploy') {
             steps {
                 echo 'Deploying application...'
-                // deployment steps
             }
+        }
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: '**/extent-report.html', allowEmptyArchive: true
+
+            publishHTML([
+                reportDir: 'target',
+                reportFiles: 'extent-report.html',
+                reportName: 'Extent Report',
+                allowMissing: false,
+                keepAll: true,
+                alwaysLinkToLastBuild: true
+            ])
         }
     }
 }
