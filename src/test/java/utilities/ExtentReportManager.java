@@ -29,7 +29,7 @@ public class ExtentReportManager implements ITestListener{
 	
 	public void onStart(ITestContext testContext) {
 		
-	   sparkReporter = new ExtentSparkReporter("target/extent-report.html");  //specify location
+	   sparkReporter = new ExtentSparkReporter("target/extent-report.html");  //specify location for jenkins
 		
 		sparkReporter.config().setDocumentTitle("Opencart Automation Report");
 		sparkReporter.config().setReportName("Opencart Functional Testing");
